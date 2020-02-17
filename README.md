@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lab you will test your knowledge on confidence intervals and you will work with normal, student's t and chi-squared distributions. 
+ In this lab you will test your knowledge on confidence intervals and you will work with normal, student's t and chi-squared distributions. 
 
 ## Getting Started
 
